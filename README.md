@@ -14,11 +14,11 @@ StickyHeaderListView 是基于实际需求做出的灵活可定制的UI功能，
 
 ### 动态效果图
 
-<img src="/screenshots/stickyheader.gif" style="width: 30%;"/>
+<img src="/screenshot/img1.png" style="width: 30%;"/>
 
 <br/>
 
-<img src="/screenshots/stickyheader2.gif" style="width: 30%;"/>
+<img src="/screenshot/img2.png" style="width: 30%;"/>
 
 ### 截图
 
